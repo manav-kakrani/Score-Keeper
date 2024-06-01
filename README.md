@@ -1,0 +1,1 @@
+Our Soccer Score Keeper website lets you easily track and update scores by tapping on each team's name. Set a score limit, and once reached, the winning team’s score turns green and the losing team’s red, with celebratory animations. Future enhancements include sensor integration for automatic goal detection, perfect for live stadium use. Stay tuned for more exciting features!
